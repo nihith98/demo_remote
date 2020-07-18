@@ -3,5 +3,8 @@ import sys
 def default():
     print('Hi')
 
-if __name__ == '__main__':
+def main():
     default()
+
+if __name__ == '__main__':
+    main()
