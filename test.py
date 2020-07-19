@@ -10,6 +10,7 @@ def default():
         print('Moo!')
 
 def main():
+    print('This is main')
     default()
 
 if __name__ == '__main__':
